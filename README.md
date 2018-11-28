@@ -6,11 +6,15 @@ User Migration Tool User Guide
 User Migration Tool:
 1)	 Run “BULK_Remote_UserMigration.cmd” to start the migration tool.
  
-2)	Select 
-    a.	1 to migrate user data, 
-    b.	2 to Synchronize changes from last backup, 
-    c.	3 to restore user data and 
-    d.	4 to exit the script.
+2)  Select 
+
+    1 to migrate user data
+    
+    2 to Synchronize changes from last backup
+    
+    3 to restore user data
+    
+    4 to exit the script
 
 Options: 
 1)	Migrating Users Data
