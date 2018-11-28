@@ -1,0 +1,16 @@
+$RECYCLE.BIN
+Documents and Settings
+Images
+MSOCache
+NVIDIA
+OSGeo4W64
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+Setup
+Software_Certification_Toolkit
+SWSetup
+System Volume Information
+Temp
+Users
